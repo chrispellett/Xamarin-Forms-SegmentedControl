@@ -1,0 +1,1 @@
+A sample control that is a "segmented control" in both Android and iOS. For iOS it simply delegates to the native control directly. For Android we have to "fake" it by custom-rendering a radio button control to give it the right look and feel. Nowhere near perfect yet but definitely open to suggestions on how to improve it.

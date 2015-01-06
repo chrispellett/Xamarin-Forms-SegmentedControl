@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SegmentedControl.SamplePage" xmlns:controls="clr-namespace:SegmentedControl;assembly=SegmentedControl">
+	<ContentPage.Content>
+		<StackLayout HeightRequest="30" Padding="20">
+			<controls:SegmentedControl>
+				<controls:SegmentedControl.Children>
+					<controls:SegmentedControlOption Text="One" />
+					<controls:SegmentedControlOption Text="Two" />
+				</controls:SegmentedControl.Children>
+			</controls:SegmentedControl>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

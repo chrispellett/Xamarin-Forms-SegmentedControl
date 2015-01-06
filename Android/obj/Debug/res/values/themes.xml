@@ -1,0 +1,1 @@
+<resources><style name="CustomTheme" parent="@android:style/Theme"><item name="segmentedControlOptionStyle">@style/SegmentedControlOption</item></style></resources>

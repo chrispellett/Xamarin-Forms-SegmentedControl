@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SegmentedControl/SegmentedControl.cs">
+    <Files>
+      <File FileName="Android/SegmentedControlRenderer.cs" Line="1" Column="1" />
+      <File FileName="iOS/SegmentedControlRenderer.cs" Line="19" Column="19" />
+      <File FileName="SegmentedControl/SegmentedControl.cs" Line="5" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SegmentedControl" expanded="True">
+            <Node name="SegmentedControl.cs" selected="True" />
+          </Node>
+          <Node name="SegmentedControl.Android" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="color" expanded="True" />
+              <Node name="drawable" expanded="True" />
+              <Node name="values" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="SegmentedControl.iOS" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chris/Documents/Custom/Xamarin.Forms.Controls/SegmentedControl/iOS/SegmentedControlRenderer.cs" line="31" column="39" />
+      <Breakpoint file="/Users/chris/Documents/Custom/Xamarin.Forms.Controls/SegmentedControl/Android/SegmentedControlRenderer.cs" line="37" column="38" />
+      <Breakpoint file="/Users/chris/Documents/Custom/Xamarin.Forms.Controls/SegmentedControl/SegmentedControl/SegmentedControl.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

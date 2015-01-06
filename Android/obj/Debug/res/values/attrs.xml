@@ -1,0 +1,1 @@
+<resources><declare-styleable name="SegmentedControlOption"><attr name="segmentedControlOptionStyle" format="string" /><attr name="lineColor" format="color" /><attr name="lineHeightUnselected" format="dimension" /><attr name="lineHeightSelected" format="dimension" /></declare-styleable></resources>
